@@ -4,7 +4,7 @@
   <img 
     src="https://github.com/user-attachments/assets/58b29d77-018a-4030-8349-c43225efbeae"
     alt="Solar System Encyclopedia Banner" 
-    width="100%">
+    width="100%"
   />
 </p>
 
@@ -65,7 +65,7 @@ This project was created for the **COS 742 Unity Class Test 2026** and follows t
   <img 
     src="https://github.com/user-attachments/assets/02299e0c-9ee7-4db6-a03b-a6435d226914"
     alt="Solar System Main Hub" 
-    width="90%">
+    width="90%"
   />
 </p>
 
@@ -75,7 +75,7 @@ This project was created for the **COS 742 Unity Class Test 2026** and follows t
   <img 
     src="https://github.com/user-attachments/assets/ac8d146c-661f-4646-a30e-e4ed1cafdcfd" 
     alt="Planet View Screen" 
-    width="90%">
+    width="90%"
   />
 </p>
 
