@@ -1,7 +1,11 @@
 # Solar System Encyclopedia
 
 <p align="center">
-  <img src="readme-assets/banner.png" alt="Solar System Encyclopedia Banner" width="100%">
+  <img 
+    src="https://github.com/user-attachments/assets/58b29d77-018a-4030-8349-c43225efbeae"
+    alt="Solar System Encyclopedia Banner" 
+    width="100%">
+  />
 </p>
 
 <p align="center">
@@ -48,19 +52,31 @@ This project was created for the **COS 742 Unity Class Test 2026** and follows t
 ### 🌠 Start Screen
 
 <p align="center">
-  <img src="readme-assets/start-screen.png" alt="Solar System Start Screen" width="80%">
+  <img 
+    src="https://github.com/user-attachments/assets/26653bfa-34fa-491b-8a4c-be57cee49456" 
+    alt="Solar System Start Screen" 
+    width="80%"
+  />
 </p>
 
 ### 🪐 Main Solar System Hub
 
 <p align="center">
-  <img src="readme-assets/main-hub.png" alt="Solar System Main Hub" width="90%">
+  <img 
+    src="https://github.com/user-attachments/assets/02299e0c-9ee7-4db6-a03b-a6435d226914"
+    alt="Solar System Main Hub" 
+    width="90%">
+  />
 </p>
 
 ### 🪐 Planet View and Information Screen
 
 <p align="center">
-  <img src="readme-assets/planet-view.png" alt="Planet View Screen" width="90%">
+  <img 
+    src="https://github.com/user-attachments/assets/ac8d146c-661f-4646-a30e-e4ed1cafdcfd" 
+    alt="Planet View Screen" 
+    width="90%">
+  />
 </p>
 
 ---
@@ -84,11 +100,12 @@ This project was created for the **COS 742 Unity Class Test 2026** and follows t
 
 * Unity
 * C#
+* 3DS MAX
+* Adobe Photoshop
 * Unity UI
 * Unity Audio System
 * Unity Animation System
 * Particle System
-* 3D Modelling
 * Texturing
 * Scene Management
 
